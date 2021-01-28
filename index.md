@@ -14,4 +14,6 @@
 
 6.3 dot product: https://www.mathsisfun.com/algebra/vectors-dot-product.html
 
+unit 6 formulas: <https://www.math.utah.edu/~anna/Fall12/Trig/LessonPlans/Section65.pdf>
+
 magnitude formula: r = √(x^2 + y^2)
