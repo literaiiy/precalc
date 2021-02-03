@@ -17,3 +17,7 @@
 unit 6 formulas: <https://www.math.utah.edu/~anna/Fall12/Trig/LessonPlans/Section65.pdf>
 
 magnitude formula: r = √(x^2 + y^2)
+
+---
+
+7.3 - Partial Fractions - <https://www.mathsisfun.com/algebra/partial-fractions.html>
