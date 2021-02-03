@@ -21,3 +21,5 @@ magnitude formula: r = √(x^2 + y^2)
 ---
 
 7.3 - Partial Fractions - <https://www.mathsisfun.com/algebra/partial-fractions.html>
+
+7.3 - This dumb question - <https://i.ibb.co/RhYD0Y1/PXL-20210203-023741312.jpg>
